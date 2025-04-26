@@ -9,7 +9,7 @@ The leaf-dataset is composed of the "images" folder containing leaf images and t
 ﻿
 
 
-# Data Availability Statement:
+# Data Availability Statement
 Given the substantial size of the dataset (59.83 GB), we provide two access options:
 
 Baidu Netdisk: Download via https://pan.baidu.com/s/1k7_wAcWq8t-93ozX6IQpVQ (Extraction code: leaf)
